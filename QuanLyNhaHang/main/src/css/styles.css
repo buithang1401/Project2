@@ -1,0 +1,40 @@
+#login-background{
+    -fx-background-image: url("//img/background/login-background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 1100 710;
+    -fx-background-position: center center;
+}
+#admin-background{
+    -fx-background-image: url(//img/background/wooden-table-top-with-blur-coffee-shop-restaurant-interior-background_7188-794.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 1100 710;
+    -fx-background-position: center center;
+}
+.logo{
+    -fx-border-radius: 50;
+}
+.user-background{
+    -fx-background-color: #DCDCDC;
+    -fx-opacity: 0.9;
+}
+.manager-background{
+    -fx-background-color: #FFFACD;
+    -fx-opacity: 0.9;
+}
+
+.language-box{
+    -fx-background-color:  #E8E8E8;
+    -fx-background-radius: 20;
+}
+.text-field{
+    -fx-background-radius: 50;
+}
+.button{
+    -fx-background-color:  #FFDEAD;
+    -fx-background-radius: 10;
+}
+.button:hover{
+    -fx-background-color: #D2691E;
+    -fx-background-radius: 10;
+}
+
